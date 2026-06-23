@@ -1,0 +1,20 @@
+team_name: "<your team name>"
+primary_contact:
+  name: "Nishitha"
+  email: "<your email>"
+  phone: "<your phone number>"
+github_repo: "https://github.com/nishi123-dheekollu/redrob-hackathon"
+sandbox_link: "<pending - Colab link will go here>"
+ai_tools_declared:
+  - Claude
+compute_environment: "Windows, Python 3, CPU-only"
+methodology_summary: >
+  Two-stage ranking pipeline. Stage 1 applies cheap heuristic scoring (keyword matches,
+  experience-band fit, behavioral signals, honeypot detection) across the full candidate
+  pool to select the top 3000. Stage 2 re-ranks these using sentence-transformer embeddings
+  compared against the JD. Honeypot detection targets impossible skill-tenure and
+  non-technical job titles with stuffed AI keywords. Reasoning is generated per-candidate
+  with JD-specific justification and honest concerns rather than a fixed template.
+team_members:
+  - name: "Nishitha"
+    email: "<your email>"
