@@ -1,10 +1,10 @@
-team_name: "<your team name>"
+team_name: "Nishitha Dheekollu"
 primary_contact:
   name: "Nishitha"
-  email: "<your email>"
-  phone: "<your phone number>"
+  email: "nishithadheekollu111@gmail.com"
+  phone: "9493892369"
 github_repo: "https://github.com/nishi123-dheekollu/redrob-hackathon"
-sandbox_link: "<pending - Colab link will go here>"
+sandbox_link: "https://colab.research.google.com/drive/1ZekY1UT2lIStPfrm7DPt6AwsCI2Sst_m?usp=sharing"
 ai_tools_declared:
   - Claude
 compute_environment: "Windows, Python 3, CPU-only"
@@ -17,4 +17,4 @@ methodology_summary: >
   with JD-specific justification and honest concerns rather than a fixed template.
 team_members:
   - name: "Nishitha"
-    email: "<your email>"
+    email: "nishithadheekollu111@gmail.com"
