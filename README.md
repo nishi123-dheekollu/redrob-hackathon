@@ -4,7 +4,15 @@
 
 \## Setup
 
+pip install -r requirements.txt
+
+
+
 \## Running the ranker
+
+python src/ranker.py --candidates data/candidates.jsonl --out outputs/team\_nishitha123.csv
+
+
 
 \## Approach
 
