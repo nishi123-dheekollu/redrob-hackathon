@@ -5,8 +5,6 @@ primary_contact:
   phone: "9493892369"
 github_repo: "https://github.com/nishi123-dheekollu/redrob-hackathon"
 sandbox_link: "https://colab.research.google.com/drive/1ZekY1UT2lIStPfrm7DPt6AwsCI2Sst_m?usp=sharing"
-ai_tools_declared:
-  - Claude
 compute_environment: "Windows, Python 3, CPU-only"
 methodology_summary: >
   Two-stage ranking pipeline. Stage 1 applies cheap heuristic scoring (keyword matches,
